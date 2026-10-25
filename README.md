@@ -6,6 +6,10 @@ I'm also exploring **AI-assisted development and automation** to improve my work
 
 I'm particularly interested in creating **innovative projects that combine hardware and software to solve real-world problems**.
 
+---
+
 ## Let's Connect
 
-- [GitHub](https://github.com/nikkoo11/)
+- [GitHub](https://github.com/nikkoo11)
+
+---
