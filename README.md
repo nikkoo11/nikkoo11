@@ -1,3 +1,4 @@
+---
 Hi there! 👋 I'm Jericho Fragata
 ---
 Computer Engineering Student | Aspiring Software & Embedded Systems Developer
