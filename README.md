@@ -17,6 +17,6 @@ I'm particularly interested in creating **innovative projects that combine hardw
 ## Let's Connect
 
 - [GitHub](https://github.com/nikkoo11)
-- [Linkedin](www.linkedin.com/in/jerichofragata)
+- [Linkedin](https://www.linkedin.com/in/jerichofragata/)
 
 ---
